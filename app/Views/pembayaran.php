@@ -18,7 +18,7 @@
                         </div>
 
                         <div class="col-md-6 text-right">
-                            <p class="font-weight-bold mb-1">Invoice #550</p>
+                            <p class="font-weight-bold mb-1">Invoice #001</p>
                             <p class="text-muted">Due to: 03-Januari-2021</p>
                         </div>
                     </div>
@@ -28,18 +28,16 @@
                     <div class="row pb-5 p-5">
                         <div class="col-md-6">
                             <p class="font-weight-bold mb-4">Client Information</p>
-                            <p class="mb-1">John Doe, Mrs Emma Downson</p>
-                            <p>Acme Inc</p>
-                            <p class="mb-1">Berlin, Germany</p>
-                            <p class="mb-1">6781 45P</p>
+                            <p class="mb-1">Pinskuy</p>
+                            <p class="mb-1">Lampung, Indonesia</p>
                         </div>
 
                         <div class="col-md-6 text-right">
                             <p class="font-weight-bold mb-4">Payment Details</p>
-                            <p class="mb-1"><span class="text-muted">VAT: </span> 1425782</p>
-                            <p class="mb-1"><span class="text-muted">VAT ID: </span> 10253642</p>
+                            <p class="mb-1"><span class="text-muted">VAT: </span> 123456</p>
+                            <p class="mb-1"><span class="text-muted">VAT ID: </span> 1234567</p>
                             <p class="mb-1"><span class="text-muted">Payment Type: </span> Root</p>
-                            <p class="mb-1"><span class="text-muted">Name: </span> John Doe</p>
+                            <p class="mb-1"><span class="text-muted">Name: </span> BARA</p>
                         </div>
                     </div>
 
@@ -59,27 +57,11 @@
                                 <tbody>
                                     <tr>
                                         <td>1</td>
-                                        <td>Software</td>
-                                        <td>LTS Versions</td>
-                                        <td>21</td>
-                                        <td>$321</td>
-                                        <td>$3452</td>
-                                    </tr>
-                                    <tr>
+                                        <td>SEPATU</td>
+                                        <td>Green</td>
                                         <td>1</td>
-                                        <td>Software</td>
-                                        <td>Support</td>
-                                        <td>234</td>
-                                        <td>$6356</td>
-                                        <td>$23423</td>
-                                    </tr>
-                                    <tr>
-                                        <td>1</td>
-                                        <td>Software</td>
-                                        <td>Sofware Collection</td>
-                                        <td>4534</td>
-                                        <td>$354</td>
-                                        <td>$23434</td>
+                                        <td>Rp.999.999</td>
+                                        <td>Rp.999.999</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -89,17 +71,11 @@
                     <div class="d-flex flex-row-reverse bg-dark text-white p-4">
                         <div class="py-3 px-5 text-right">
                             <div class="mb-2">Grand Total</div>
-                            <div class="h2 font-weight-light">$234,234</div>
+                            <div class="h2 font-weight-light">Rp.999.999</div>
                         </div>
-
-                        <div class="py-3 px-5 text-right">
-                            <div class="mb-2">Discount</div>
-                            <div class="h2 font-weight-light">10%</div>
-                        </div>
-
                         <div class="py-3 px-5 text-right">
                             <div class="mb-2">Sub - Total amount</div>
-                            <div class="h2 font-weight-light">$32,432</div>
+                            <div class="h2 font-weight-light">Rp.999.999</div>
                         </div>
                     </div>
                 </div>

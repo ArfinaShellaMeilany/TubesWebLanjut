@@ -72,7 +72,7 @@
                     </div>
                     <div class="down-content">
                         <h4>Muhammad Nur Ashiddiqi</h4>
-                        <span>Backend</span>
+                        <span>Back End</span>
                         <p>1857051014</p>
                     </div>
                 </div>
@@ -96,7 +96,7 @@
                     </div>
                     <div class="down-content">
                         <h4>Arfina Shella Meilany</h4>
-                        <span>Frontend</span>
+                        <span>Front End</span>
                         <p>1817051005</p>
                     </div>
                 </div>
@@ -140,7 +140,7 @@
                     </div>
                     <div class="down-content">
                         <h4>Rika Ningtyas Azhari</h4>
-                        <span>Backend</span>
+                        <span>Back End</span>
                         <p>1817051073</p>
                     </div>
                 </div>
